@@ -34,12 +34,12 @@ const Navbar = () => {
 
  
       <ul className='Nav-list'>
-              <a href="">Home</a>  
-             <a href="">About Us</a> 
-            <a href="">Contact Us</a> 
-            <a href="">Services</a> 
-            <a href="">Blog</a> 
-            <a href="">Meet a Lawyer </a> 
+              <a href="#">Home</a>  
+             <a href="#">About Us</a> 
+            <a href="#">Contact Us</a> 
+            <a href="#">Services</a> 
+            <a href="#">Blog</a> 
+            <a href="#n">Meet a Lawyer </a> 
            
            </ul> 
 
