@@ -1,0 +1,68 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 90px;
+    color: #ffff;
+}
+
+.logo {
+    margin-top: 20px ;
+    display:flex;
+    justify-items: center;
+   
+}
+.needs {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ACC8E5;
+    background-color: #ACC8E5;
+    width: 50%;
+    height: 35px;
+    margin: 80px 240px; 
+    padding-top: 10px;
+    padding-right: 3px;  
+}
+.Place {
+    display: flex;
+    justify-content: space-between;
+    border: #254B75;
+    background-color: #254B75;
+    width: 50%;
+    height:40px ;
+    padding: 2px 2px;
+    margin: 80px 328px;
+}
+.find {
+    margin-top: 4px;
+    color: azure;
+}
+
+.Services{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 0;
+    width: 70%;
+
+} 
+
+.Service {
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.States {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 0;
+    width: 70%;
+}
+
+.State {
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem; 
+}

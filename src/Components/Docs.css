@@ -1,0 +1,56 @@
+.files {
+    color:#ffff;
+
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 226px;
+height: 55px;
+padding-top: 79px;
+padding-left: 503px;
+}
+
+.simplify {
+  display: flex; 
+  justify-content: center;
+  
+}
+
+.docs {
+    display: flex;
+    justify-content: center;
+    width:(222.78px);
+    height: 200;
+    padding-left:(546px );
+    padding-top: (796px);
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    width: (335px);
+    height: (80px);
+padding-left: (513px);
+padding-top: 10px;
+
+}
+
+.steps {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.how {
+    display: flex;
+    justify-content: center;
+    
+}
+.step {
+    display: flex;
+    flex-direction: column;
+    
+
+}

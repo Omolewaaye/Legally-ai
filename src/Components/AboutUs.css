@@ -1,0 +1,45 @@
+.About-Us {
+    color:#ffff;
+
+}
+
+.Overview {
+    display: flex;
+     height: 55px;
+width: 446px;
+padding-left: 112px;
+padding-top: 191px;
+}
+
+.aim {
+    display: flex; 
+    height: 220px;
+    width: 1248px;
+    padding-left: 106px;
+}
+
+.infos {
+    display: flex;
+    flex-direction: row;
+     justify-content: space-between;
+   
+    }
+
+    .info {
+        display: flex;
+        justify-content: center;
+         padding-left: 80px;
+}
+
+.Nig {
+    display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-bottom: 8px; 
+}
+
+.Mission {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
